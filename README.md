@@ -1,2 +1,5 @@
 # MyFirstFork
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque posuere ipsum at sagittis bibendum. Proin ac ultricies sapien. Donec neque tellus, tincidunt at ex eget, rutrum scelerisque quam. Aliquam erat volutpat. Proin in tempor ante. Cras pellentesque orci ut porttitor feugiat. Curabitur a auctor nisl. Mauris et risus et dui tincidunt gravida sed eget est. Morbi vulputate augue vel diam pretium fermentum. Nunc pretium felis volutpat, placerat est vehicula, lobortis turpis. Proin interdum porta volutpat.
+
+my first git session
+
+
